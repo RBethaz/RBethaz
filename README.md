@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bethaz Raphaël</h1>
-<h3 align="center">A passionate developer from France</h3>
-
-- 🌱 I’m currently learning **C & C++**
+<h3 align="center">I am primarily a back-end developer with a strong preference for Python</h3>
 
 - 📫 How to reach me **bethazdev@protonmail.com**
 
