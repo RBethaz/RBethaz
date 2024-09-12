@@ -2,7 +2,7 @@
 <h3 align="center">I am primarily a back-end developer with a strong preference for Python</h3>
 
 - 📫 How to reach me **raphael.bethaz@hotmail.com**
-- 🌱 I’m currently learning **Rust** <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" /> </a>
+- 🌱 I’m currently learning <p align="left"> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" /> </a> </p>
 
 </svg>
 
