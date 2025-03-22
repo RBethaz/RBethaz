@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bethaz Raphaël</h1>
-<h3 align="center">I am primarily a back-end developer with a strong preference for Python</h3>
+<h3 align="center">Backend</h3>
 
 - 📫 How to reach me **raphael.bethaz@hotmail.com**
 - 🌱 I’m currently learning **Rust**
